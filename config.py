@@ -1,6 +1,6 @@
 from static_data import MINERALS, GOOD_LIQUID_GOODS
 
-API_TOKEN = '5972049768:AAHyO3uPiE5OSrMqNyPUXjz0KfabeLNXjng'
+API_TOKEN = '' # укажите ваш Токен от бота в Телеге, тип String
 
 REGIONS = {
     'The Forge': 10000002,

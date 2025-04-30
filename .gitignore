@@ -1,0 +1,15 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Игнорируем виртуальное окружение
+myvenv/
+
+# Игнорируем логи
+*.log
+
+# Игнорируем скомпилированные Python файлы
+__pycache__/
+*.рус
+
+# Игнорируем системные файлы
+.DS_Store
+Thumbs.db
